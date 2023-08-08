@@ -1,0 +1,3 @@
+# My First Repository
+
+Hello Odin Project.  Wassuuuuppppp aaaaalllalalalaaaa.....
